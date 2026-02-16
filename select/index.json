@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アナタ MAGIC",
+  "base_artist": "monobright",
+  "createdAt": "2026-02-16T16:17:59.881071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アナタ MAGIC",
+      "artist": "MONOBRIGHT",
+      "has_synced": true,
+      "path": "select/01_アナタ_MAGIC_MONOBRIGHT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アナタ MAGIC",
+      "artist": "モノブライト",
+      "has_synced": true,
+      "path": "select/02_アナタ_MAGIC_モノブライト.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アナタ MAGIC",
+      "artist": "MONOBRIGHT",
+      "has_synced": true,
+      "path": "select/03_アナタ_MAGIC_MONOBRIGHT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アナタ MAGIC",
+      "artist": "monobright",
+      "has_synced": false,
+      "path": "select/pl_01_アナタ_MAGIC_monobright.txt"
+    }
+  ]
+}
